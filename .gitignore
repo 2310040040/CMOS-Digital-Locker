@@ -1,0 +1,17 @@
+# Cadence Virtuoso generated files
+cds.lib
+cdsinfo.tag
+data.dm
+
+*.log
+*.history
+psf/
+psf2/
+waves/
+netlist/
+run/
+output/
+
+.cadence/
+.oalib
+
