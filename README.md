@@ -52,7 +52,7 @@ These files describe the circuit design, working principle, and results.
 
 ## 👤 Author
 
-Yeshwanth  
+Dandu Rahul
 B.Tech – Electronics & Communication Engineering  
 
 ## 📜 License
